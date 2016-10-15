@@ -1,0 +1,219 @@
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+Server running at 8880 /
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+Server running at 8880 /
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+
+/home/ubuntu/web/gallery/app.js:19
+		docLists += '<li>' + ./data/files[i] + '</li>';
+		                     ^
+SyntaxError: Unexpected token .
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+
+/home/ubuntu/web/gallery/app.js:19
+		docLists += '<li>' + ./data/files[i] + '</li>';
+		                     ^
+SyntaxError: Unexpected token .
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+Server running at 8880 /
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+Server running at 8880 /
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/image.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/image.jpg width=' }
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/1610111328.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/1610111328.jpg width=' }
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/1610101418.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/1610101418.jpg width=' }
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/1610101417.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/1610101417.jpg width=' }
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/1610101416.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/1610101416.jpg width=' }
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/1610101415.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/1610101415.jpg width=' }
+{ [Error: ENOENT, open '/home/ubuntu/web/gallery/data/1610101408.jpg width=']
+  errno: 34,
+  code: 'ENOENT',
+  path: '/home/ubuntu/web/gallery/data/1610101408.jpg width=' }
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+Server running at 8880 /
+
+undefined:0
+
+^
+SyntaxError: Unexpected end of input
+    at Object.parse (native)
+    at /home/ubuntu/web/gallery/app.js:27:24
+    at /home/ubuntu/web/gallery/app.js:92:9
+    at Object.oncomplete (fs.js:107:15)
+
+> application-name@0.0.1 start /home/ubuntu/web/gallery
+> nodemon app.js
+
+[33m[nodemon] 1.10.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: EBADF, read
+npm ERR! weird error 8
+npm WARN This failure might be due to the use of legacy binary "node"
+npm WARN For further explanations, please read
+/usr/share/doc/nodejs/README.Debian
+ 
+npm ERR! not ok code 0
+Server running at 8880 /
