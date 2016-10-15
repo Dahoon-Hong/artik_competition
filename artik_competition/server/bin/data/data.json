@@ -1,0 +1,8 @@
+{
+	"temperature": true,
+	"state": true,
+	"humidity": true,
+	"water": true,
+	"humidity_soil": true,
+	"illumination": true
+}
